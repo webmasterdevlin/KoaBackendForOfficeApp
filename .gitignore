@@ -59,12 +59,12 @@ client/app/**/*.js
 client/app/**/*.js.map
 
 # Environment Variables
-.env
-variables.env
+#.env
+#variables.env
 
 # Eslint
-.eslintignore
-.eslint
+#.eslintignore
+#.eslint
 
 # Tslint
 tslint.json
